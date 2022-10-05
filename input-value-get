@@ -1,0 +1,5 @@
+$(document).ready(function () {
+            $("#setBtnID").click(function () {
+                $("input:text").val("Hello World!");
+            });
+        });
